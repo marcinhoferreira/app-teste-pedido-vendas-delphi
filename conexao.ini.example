@@ -1,0 +1,13 @@
+[DB]
+# Deve conter o IP ou nome do host
+Server=127.0.0.1
+# Deve conter a porta do servidor de banco de dados
+Port=3306
+# Deve conter o nome do banco de dados
+Database=<nome-do-banco-de-dados>
+# Deve conter o nome do usuário do banco de dados
+Username=<nome-do-usuario-do-banco>
+# Deve conter a senha do usuário do banco de dados
+Password=<senha-do-usuario-do-banco>
+# Deve conter o caminho completo da localização da DLL de conexão
+LibraryPath=<localizacao-da-dll-para-conexao>
