@@ -6,7 +6,7 @@ As definições do projeto estão no arquivo Teste Delphi - 2025.pdf
 
 ### 🔗 Tecnologias utilizadas
 
-- 🖥️ Linguagem: Delphi (VCL)
+- 🖥️ Linguagem: Delphi 12 Athens (VCL)
 - 📊 Databases: MySQL
 - ⚙️ Drivers: FireDAC
   
